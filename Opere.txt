@@ -1,0 +1,5 @@
+Elenco dei musei di una data città.
+Dato un museo, elencare le opere
+Elencare le opere di un dato artista
+Dato un'artista, elencare le opere con le loro tipologie
+Dato un museo, elencare le opere contenute con i relativi artisti
